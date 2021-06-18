@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "crud-user-pfe-front"
+    }
+  },
+  "defaultProject": "crud-user-pfe-front",
+  "cli": {
+    "analytics": false
+  }
 }
